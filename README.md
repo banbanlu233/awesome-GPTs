@@ -16,7 +16,7 @@ OpenAI has rolled out a platform allowing individuals and organizations to creat
 
 We invite GPT creators to share their models with the world. To contribute:
 
-1. **Fork & Add Your Model**: Add a link and description of your GPT model in the `list.md` file in your forked repository.
+1. **Fork & Add Your Model**: Add a link and description of your GPT model in the `gptslist.md` file in your forked repository.
 2. **Submit a Pull Request**: We'll review your submission to ensure it aligns with our guidelines.
 3. **Join the List**: Once approved, your model will be featured in our repository.
 
