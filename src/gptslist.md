@@ -1,5 +1,9 @@
 # Awesome custom GPTs
 
+## [Web Crawler Guru](https://chat.openai.com/g/g-dseoV9glN-web-crawler-guru)
+
+
+Expert in web scraping and Python, provides technical guidance and ethical considerations.
 ## [ChatXGB](https://chat.openai.com/g/g-dq9i42tRO-chatxgb)
 
 
