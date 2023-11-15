@@ -3,6 +3,9 @@
   <p align="center">
     <img width="650" src="https://images.openai.com/blob/2014517b-1a80-4b62-bbb6-caa490f69299/introducing-gpts.png?trim=0,0,0,0&width=2000">
   </p>
+  <p>
+      <a href="https://github.com/banbanlu233/awesome-gpts">English</a> | <a href="https://github.com/banbanlu233/awesome-gpts/blob/main/README_ES.md">español</a>
+  </p>
 </div>
 
 ## 🚀 Awesome GPTs Introduction - A World of customized ChatGPT
