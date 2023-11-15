@@ -29,9 +29,9 @@ Following these steps helps everyone find and appreciate your contributions more
 
 Stay tuned, there's always more coming your way!
 
-## 📂 GPTs directories
+## 🌌 Explore the Universe of GPTs
 
-Following websites are the way to thousands of GPTs:
+Embark on an adventure to discover countless GPTs through these portals:
 
 - [GPTs Hunter](https://www.gptshunter.com)
 - [GPTs Works](https://gpts.works/)
@@ -59,10 +59,10 @@ Following websites are the way to thousands of GPTs:
 
 ## 📚 Dive Into Our Categories
 
-### 📝 Text
+### [📝 Text](#text)
 
-- ✍️ Copywriting
-- 📧 Email Assistant
+- [✍️ Copywriting](#copywriting)
+- [📧 Email Assistant](#email-assistant)
 - 🖋️ General Writing
 - 🔁 Paraphraser
 - 💡 Prompts
@@ -136,3 +136,47 @@ Following websites are the way to thousands of GPTs:
 - 📚 Language Learning
 - ✈️ Travel
 - 🤖 AI Content Detector
+
+## Text
+
+### Copywriting
+
+- FREE Copywriting Formula Tool
+
+  - Quickly and easily discover the best free copywriting formula for your websites and sales letters.
+  - [Chat now](https://chat.openai.com/g/g-PkheQN7hW-free-copywriting-formula-tool)
+
+- Copywriting Master
+
+  - Crafts engaging social media copy.
+  - [Chat now](https://chat.openai.com/g/g-jZ3KBLbkr-copywriting-master)
+
+- Futureproof Copywriting
+
+  - Ask anything you like about copywriting with both Artificial and Emotional Intelligence. nickusborne.com
+  - [Chat now](https://chat.openai.com/g/g-WUNst3Dvj-futureproof-copywriting)
+
+- Copywriter
+
+  - Enter any URL and get sales copywriting suggestions for the page!
+  - [Chat now](https://chat.openai.com/g/g-rJ8laM2qH-copywriter)
+
+- Copyai
+  - I'm a copywriting assistant, here to help craft your ad copy and marketing content.
+  - [Chat now](https://chat.openai.com/g/g-N8MJ1T2Kz-copyai)
+
+## Email Assistant
+
+- Engaging Emailer
+
+  - Friendly and adaptable email writing expert.
+  - [Chat now](https://chat.openai.com/g/g-s7mqlz2zH-engaging-emailer)
+
+- Email Proofreader
+
+  - Copy and paste your email draft to be proofread by GPT without changing their content. Optionally, write 'Verbose = True' on the line before pasting your draft if you would like GPT to explain how it evaluated and changed your text after proofreading.
+  - [Chat now](https://chat.openai.com/g/g-ebowB1582-email-proofreader)
+
+- Professional Email Assistant
+  - Expert in crafting official emails with a conversational, positive tone.
+  - [Chat now](https://chat.openai.com/g/g-XPPChkkDr-professional-email-assistant)
