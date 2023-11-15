@@ -29,6 +29,34 @@ Following these steps helps everyone find and appreciate your contributions more
 
 Stay tuned, there's always more coming your way!
 
+## 📂 GPTs directories
+
+Following websites are the way to thousands of GPTs:
+
+- [GPTs Hunter](https://www.gptshunter.com)
+- [GPTs Works](https://gpts.works/)
+- [GPTLet](https://gptlet.app)
+- [Custom GPTs Store](https://gptstlist.com)
+- [GTPsPedia](https://gptspedia.io)
+- [GPTs Map](https://gptsmap.xyz)
+- [GPT App Store](https://gptappstore.ai)
+- [GPTsGarden](https://www.gptsgarden.com)
+- [Quanthium](https://quanthium.io)
+- [JustGPTs](https://justgpts.com)
+- [CUSTOM GPTs](https://www.customgpts.info)
+- [Top GPTs](https://topgpts.store)
+- [GPTs Today](https://gptstoday.com)
+- [GPT Tracker](https://gptstracker.com)
+- [GPTs Hunt](https://www.gptshunt.tech)
+- [‘ShareGPTs](https://sharegpts.net)
+- [GPTs Finder](https://gptsfinder.net)
+- [GPTs House](https://gptshouse.com/)
+- [Meetups.AI](https://meetups.ai/)
+- [GPTsdex](https://gptsdex.com/)
+- [GPTs Gallery](https://www.gptsgallery.com/)
+- [Direct GPTs](https://www.directgpts.com/)
+- [TopGPTs.ai](https://www.topgpts.ai/)
+
 ## 📚 Dive Into Our Categories
 
 ### 📝 Text
