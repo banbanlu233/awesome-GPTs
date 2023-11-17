@@ -45,6 +45,7 @@ Embark on an adventure to discover countless GPTs through these third-party GPTs
 - [GPTs Works](https://gpts.works/)
 - [BestGPTs](https://bestgpts.app/)
 - [GPTs Today](https://gptstoday.com)
+- [Featured GPTs](https://www.featuredgpts.com/)
 - [MyGPTs](https://mygpts.dev/)
 - [GPTLet](https://gptlet.app)
 - [Custom GPTs Store](https://gptstlist.com)
