@@ -43,6 +43,8 @@ Embark on an adventure to discover countless GPTs through these third-party GPTs
 
 - [GPTs Hunter](https://www.gptshunter.com)
 - [GPTs Works](https://gpts.works/)
+- [BestGPTs](https://bestgpts.app/)
+- [GPTs Today](https://gptstoday.com)
 - [GPTLet](https://gptlet.app)
 - [Custom GPTs Store](https://gptstlist.com)
 - [GTPsPedia](https://gptspedia.io)
@@ -53,7 +55,6 @@ Embark on an adventure to discover countless GPTs through these third-party GPTs
 - [JustGPTs](https://justgpts.com)
 - [CUSTOM GPTs](https://www.customgpts.info)
 - [Top GPTs](https://topgpts.store)
-- [GPTs Today](https://gptstoday.com)
 - [GPT Tracker](https://gptstracker.com)
 - [GPTs Hunt](https://www.gptshunt.tech)
 - [‘ShareGPTs](https://sharegpts.net)
